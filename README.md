@@ -1,3 +1,3 @@
 ## 게임 플레이 동영상
 
-[게임 플레이 보기](./2DGameDev_FlightShooting_Play.mov)
+https://github.com/user-attachments/assets/ae7533ee-8ec9-4afc-8da9-e53029b8e8bd
